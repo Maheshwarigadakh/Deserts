@@ -1,5 +1,14 @@
 body{
   margin: 0;
   padding: 0;
-  background-color: gray;
+  
+}
+.header-img{
+height: 500px;
+width: 500px;
+}
+h1{
+  background-color: rgba(115, 202, 221, 0.885);
+  border-radius: 50%;
+  text-align: center;
 }

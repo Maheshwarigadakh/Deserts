@@ -5,7 +5,8 @@ function Navbar() {
   return (
     
     <div className="navbar">
-        Deserts
+        <span>Deserts</span>
+    
         <div className="navbar-links">
             <a href="/" className="navbar-link">Home</a>
             <a href="/about" className="navbar-link"> About</a>
