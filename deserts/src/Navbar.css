@@ -1,0 +1,12 @@
+.navbar{
+    background-color: rgb(15, 15, 91);
+    color: rgb(187, 185, 185);
+    padding: 10px;
+    display: flex;
+}
+.navbar-links{
+    margin: 0 30px;
+    color: white;
+    text-decoration: none;
+    
+}
